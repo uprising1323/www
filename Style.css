@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.title , .ham , .hamlogo{
+color: #fff;
+}
+
+@media (max-width: 680px) {
+
+
+  body{
+
+    font-family: "Poppins", sans-serif;
+
+  }
+
+.carousel-inner {
+  height:600px;
+  object-fit: cover;
+  position: absolute;
+
+}
+
+.item{
+height: 60px;
+
+}
+
+
+.item{
+  height: 95vh;
+}
+
+
+.wraper{
+  display: none;
+}
+
+body{
+  margin: 20px 20px 0x 20px;
+  background-color: rgb(243, 243, 243);
+}
+
+
+.heading{
+  color: black;
+}
+
+
+
+.navbar-brand{
+padding-left: 10px;
+font-size: 25px;
+font-weight: 100;
+}
+
+.card-img-top{
+  max-height: 350px;
+  max-width: 250px;
+}
+
+.cardd-img-top{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+
+
+
+.card-text{
+font-size: 15px;
+}
+
+.card{
+max-height: 350px;
+
+
+max-width: 250px;
+}
+
+.card-containerr , .coontainer{
+display: grid;
+grid-template-columns: 190px 190px ;
+grid-column-gap: 20px;
+justify-content: center;
+align-items: center;
+
+};
+
+
+
+
+
+
+.cardd{
+ height: 350px;
+ width: 250pxs
+
+  };
+  
+
+.hero{
+  margin-top: 700px;
+}
+
+
+
+
+
+button{
+  border-radius: 20px;
+}
+
+.nav-item{
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: thin;
+}
+
+
+
+.navbar{
+  background-color: rgb(33, 9, 56)
+}
+
+a{
+  text-decoration: none;
+  color: #1A1A1A;
+}
+
+.navbar-nav{
+  padding-top: 10px;
+  padding-left: 8px;
+}
+
+
+.banner{
+  width: 50vh;
+}
+
+.banner-container{
+  margin-top: 50px;
+}
+
+
+
+/* CSS */
+.button-28 
+{
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #d8d0d4;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #3B3B3B;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Antonio";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  min-height: 40px; /* Adjusted to match other buttons */
+  min-width: 0;
+  outline: none;
+  padding: 10px 20px; /* Adjusted to match other buttons */
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto; /* Adjusted to match other buttons */
+  will-change: transform;
+}
+
+.hero{
+  margin-top: 500px;
+}
+
+.top-seller{
+  margin-left: 20px;
+}
+
+.button-28:disabled {
+  pointer-events: none;
+}
+
+.button-28:hover {
+  color: #fff;
+  background-color: #1A1A1A;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.button-28:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.btn-C button:active {
+  background-color: #d39e00;
+  transform: scale(0.95);
+}
+
+.btn-C {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Adjusted margin-top */
+  width: 100%; /* Ensure the container takes full width */
+}
+
+
+.top-seller{
+  font-size: 30px;
+  color: rgb(33, 9, 56);
+}
+
+
+a{
+  text-decoration: none;
+  color: #1A1A1A;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
